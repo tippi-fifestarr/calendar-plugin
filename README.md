@@ -1,11 +1,22 @@
+## Bro Book Me : My Calendar
+Dework link instead of github project.
+
+This calendar can be used in BroFundMe to broadcast a meeting between the booker and the booked, with the time and place.  It will be wrapped in a form handler that I'd like to play around with called Formik, also known as react-hook-form.
+
+> we are looking for bro's to do "user experience interviews" and will give you +1 bro points for your time!
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> this project uses --legacy-peer-deps to install react-datepicker
+
+https://remotestack.io/react-calendar-datepicker-and-timepicker-tutorial/
+
+This project was bootstrapped with bootstrap and [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +79,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Roadmap
+> teamies: vote by adding your name below and ": yay" or ": nay"
+
+Hexagon shape has six sides.  Original hourCoin NFT is a golden hexagon coin rotating in blender.  For each one bought by a bro funder, there are 5 more given to bro getting funded.  These six are all simultaneously randomized by the Chainlinks, applying the layers of quality to the 3d dynamic and randomly seeded NFT.
